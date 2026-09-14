@@ -1,6 +1,6 @@
 # SQLite Database Design
 
-Coursework project from **CIS 3120 — Programming for Analytics** at Baruch College, focused on relational database design and data integrity using Python and SQLite.
+Coursework from **CIS 3120 — Programming for Analytics** at Baruch College, focused on relational database design and data integrity using Python and SQLite.
 
 ## Overview
 
@@ -25,7 +25,7 @@ This notebook explores core relational database concepts through hands-on exerci
 
 ## What I Practiced
 
-Through this project, I practiced creating relational schemas, defining relationships between tables, enforcing data integrity with foreign keys, identifying normalization issues, and querying data across multiple related tables.
+Through this work, I practiced creating relational schemas, defining relationships between tables, enforcing data integrity with foreign keys, identifying normalization issues, and querying data across multiple related tables.
 
 ## Repository Contents
 
