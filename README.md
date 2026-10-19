@@ -4,7 +4,7 @@
 <div align="center">
   <h3 align="center">SQLite Database Design</h3>
   <p align="center">
-    Relational database design, normalization, and data integrity exercises with Python and SQLite - CIS 3120 coursework at Baruch College
+    Relational database design, normalization, and data integrity exercises with Python and SQLite, CIS 3120 coursework at Baruch College
     <br />
     <a href="https://github.com/Swikc4/sqlite-database-design"><strong>Explore the repo »</strong></a>
   </p>
@@ -35,11 +35,11 @@ Coursework from CIS 3120 Programming for Analytics at Baruch College, focused on
 The notebook works through six sections:
 
 1. Environment setup
-2. Foreign key mechanics - enforcement, `rowid` and `AUTOINCREMENT`, valid and invalid inserts, and what happens when you delete a parent row
-3. Normalization - spotting the problem in a flat table and decomposing it into a normalized schema
-4. Multi-table querying - joins across a library database, members who never borrowed, outstanding loans, and total fines per member
-5. Data integrity scenarios - correct deletion order and `PRAGMA foreign_keys` OFF vs ON
-6. Schema design challenge - designing, implementing, populating, and querying a new schema
+2. Foreign key mechanics: enforcement, `rowid` and `AUTOINCREMENT`, valid and invalid inserts, and what happens when you delete a parent row
+3. Normalization: spotting the problem in a flat table and decomposing it into a normalized schema
+4. Multi-table querying: joins across a library database, members who never borrowed, outstanding loans, and total fines per member
+5. Data integrity scenarios: correct deletion order and `PRAGMA foreign_keys` OFF vs ON
+6. Schema design challenge: designing, implementing, populating, and querying a new schema
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
